@@ -2,8 +2,6 @@
 
 I’m a full-stack software developer specializing in writing native iOS and web apps.
 
-![](banner.png)
-
 Please check out my [Portfolio](https://carl.gorringe.org/#portfolio). Or go here to [Contact Me](https://carl.gorringe.org/#contact).
 
 <!--
