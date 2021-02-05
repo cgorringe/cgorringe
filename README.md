@@ -2,10 +2,7 @@
 
 I’m a full-stack software developer specializing in writing native iOS and web apps.
 
-<img src="bg.png" alt="banner" style="height:100px;border-radius:6px"/>
-<!--
-<p style="color:#ccc;background-image:url(bg.png);border-radius:6px;height:100px"></p>
--->
+![](banner.png)
 
 Please check out my [Portfolio](https://carl.gorringe.org/#portfolio). Or go here to [Contact Me](https://carl.gorringe.org/#contact).
 
